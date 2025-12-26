@@ -12,7 +12,7 @@ venv/
 env/
 ENV/
 
-# VS Code Settings (اختياري)
+# VS Code Settings
 .vscode/
 
 # Output Files
