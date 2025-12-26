@@ -197,7 +197,7 @@
 <h2 align="center" id="-installation--usage">Installation & Usage <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Download" width="25" height="25" /></h2>
 
 <div align="center">
-  <i>Follow The Steps Below To Run The Project Locally On Your Machine. Ensure You Have <strong>Python 3.x</strong> Installed.</i>
+  <i>Follow The Steps Below To Run The Project Locally On Your Machine - Ensure You Have <strong>Python 3.x</strong> Installed.</i>
 </div>
 
 <br>
