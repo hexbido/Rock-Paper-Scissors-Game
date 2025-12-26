@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=f2004a" width="100%">
+
+<div align="center">
   
   <h1>Rock-Paper-Scissors Game <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scissors.png" alt="Scissors" width="30" height="30" style="vertical-align: middle;" /></h1>
   
@@ -11,7 +14,8 @@
     <a href="#-tech-stack--tools">Tech Stack</a> •
     <a href="#-gallery--demo">Gallery</a> •
     <a href="#-features--evolution">Evolution</a> •
-    <a href="#-installation--usage">How to Run</a>
+    <a href="#-installation--usage">How To Run</a> •
+    <a href="#-warnings--troubleshooting">Warnings</a>
   </p>
 </div>
 
@@ -49,7 +53,7 @@
 
 <div align="center">
   <p>
-    • <strong>Python (3.13+):</strong> <i>The Core Logic Of The Game Using Loops, Functions, And Dictionaries.</i><br>
+    • <strong>Python (3.14):</strong> <i>The Core Logic Of The Game Using Loops, Functions, And Dictionaries.</i><br>
     • <strong>Miro:</strong> <i>Used For Designing The Logic Flowcharts And Visualizing The Algorithms Before Coding.</i>
   </p>
 </div>
@@ -199,7 +203,7 @@
 <br>
 
 <div align="center">
-  <h3>1️⃣ Clone the Repository</h3>
+  <h3>1️⃣ Clone The Repository</h3>
   <i>Open Your Terminal And Run The Following Command To Download The Project Files:</i>
 </div>
 
@@ -210,7 +214,7 @@ git clone https://github.com/hexbido/Rock-Paper-Scissors-Game.git
 <br>
 
 <div align="center">
-  <h3>2️⃣ Run the Basic Version</h3>
+  <h3>2️⃣ Run The Basic Version</h3>
   <i>Navigate To The Basic Version Folder And Execute The Script:</i> 
 </div>
 
@@ -222,7 +226,7 @@ python Rock_Paper_Scissors.py
 <br>
 
 <div align="center">
-  <h3>3️⃣ Run the Advanced Version</h3>
+  <h3>3️⃣ Run The Advanced Version</h3>
   <i>To Try The Enhanced Version With Functions And Loops, Navigate To The Advanced Folder:</i> 
 </div>
 
@@ -235,7 +239,7 @@ python Rock_Paper_Scissors_AI.py
 <img src="https://placehold.co/1000x4/f2004a/f2004a.png" alt="separator" width="100%">
 <br>
 
-<h2 align="center">Warnings & Troubleshooting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" /></h2>
+<h2 align="center" id="-warnings--troubleshooting">Warnings & Troubleshooting <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" /></h2>
 
 <div align="center">
   <p><i>Please Review The Following Notes To Ensure The Application Runs Smoothly:</i></p>
@@ -246,3 +250,12 @@ python Rock_Paper_Scissors_AI.py
     • <strong>Display Issues:</strong> <i>If Emojis Do Not Appear In Your Terminal, Ensure Your Console Font Supports UTF-8 Characters.</i>
   </p>
 </div>
+
+<br>
+
+<div align="center">
+  <p><i>Made With <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart" width="20" height="20" /> By <a href="https://github.com/hexbido">B I D O</a></i></p>
+</div>
+
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=f2004a" width="100%">
