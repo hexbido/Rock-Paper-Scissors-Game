@@ -78,22 +78,22 @@
   <tr>
     <td align="center">
       <strong>Planning (Logic)</strong><br><br>
-      <img src="Assets-Project-1/basic-version-media/Rock-Paper-Scissors-Planning.jpg" alt="Basic Flowchart" width="100%">
+      <img src="Assets-Project-1/Basic-Version-Media/Rock-Paper-Scissors-Planning.jpg" alt="Basic Flowchart" width="100%">
     </td>
     <td align="center">
       <strong>Planning (Logic)</strong><br><br>
-      <img src="Assets-Project-1/advanced-version-media/Rock-Paper-Scissors-Planning.jpg" alt="Advanced Flowchart" width="100%">
+      <img src="Assets-Project-1/Advanced-Version-Media/Rock-Paper-Scissors-Planning.jpg" alt="Advanced Flowchart" width="100%">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Execution (Main Result)</strong><br><br>
-      <img src="Assets-Project-1/basic-version-media/ScreenShot-1.png" alt="Basic Output" width="100%">
+      <img src="Assets-Project-1/Basic-Version-Media/ScreenShot-1.png" alt="Basic Output" width="100%">
     </td>
     <td align="center">
       <strong>Execution (Main Result)</strong><br><br>
-      <img src="Assets-Project-1/advanced-version-media/ScreenShot-1.png" alt="Advanced Output" width="100%">
+      <img src="Assets-Project-1/Advanced-Version-Media/ScreenShot-1.png" alt="Advanced Output" width="100%">
     </td>
   </tr>
 </table>
@@ -106,14 +106,14 @@
   <br>
   
   <h3>Basic Version - Extra Shots</h3>
-  <img src="Assets-Project-1/basic-version-media/ScreenShot-2.png" alt="Basic Shot 2" width="60%">
+  <img src="Assets-Project-1/Basic-Version-Media/ScreenShot-2.png" alt="Basic Shot 2" width="60%">
   
   <br><br><hr><br>
   
   <h3>Advanced Version - Extra Shots</h3>
-  <img src="Assets-Project-1/advanced-version-media/ScreenShot-2.png" alt="Pro Shot 2" width="45%">
+  <img src="Assets-Project-1/Advanced-Version-Media/ScreenShot-2.png" alt="Pro Shot 2" width="45%">
   &nbsp;
-  <img src="Assets-Project-1/advanced-version-media/ScreenShot-3.png" alt="Pro Shot 3" width="45%">
+  <img src="Assets-Project-1/Advanced-Version-Media/ScreenShot-3.png" alt="Pro Shot 3" width="45%">
   
 </details>
 </div>
@@ -125,7 +125,7 @@
   <p><i>Watch The Full Gameplay And Code Walkthrough:</i></p>
   
   <a href="https://drive.google.com/file/d/1nP5cY1MpzdGZZ5fUPO9sHh2nQpAdREIp/view?usp=drive_link" target="_blank">
-    <img src="Assets-Project-1/live-demo-video/video-thumb.png" alt="Watch Video" width="60%" style="border: 4px solid #f2004a; border-radius: 10px;">
+    <img src="Assets-Project-1/Live-Demo-Video/video-thumb.png" alt="Watch Video" width="60%" style="border: 4px solid #f2004a; border-radius: 10px;">
     <br>
     <em>Click To Watch Video ▷</em>
   </a>
